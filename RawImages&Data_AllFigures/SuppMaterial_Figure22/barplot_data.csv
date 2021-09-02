@@ -1,0 +1,5 @@
+plot da,sample,mean,std,x_label,updated name
+0,$\it{cia5}$,46.27333333,4.382409282,$\it{cia5}$,cia5
+1,"Low Light, High CO$_{2}$",34.16666667,4.235476273,CC-5357,"CC-5357 - low light, high CO2"
+2,100 μM H$_{2}$O$_{2}$,25.11904762,4.47333749,CC-5357 + 100 μM H$_{2}$O$_{2}$,"CC-5357 - low light, high CO2 + 100 uM H2O2"
+3,"High Light, Low CO$_{2}$",22.92380952,4.723118229, CC-5357 ,"CC-5357 - high light, low CO2"
